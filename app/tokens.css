@@ -1,0 +1,74 @@
+/* Design Tokens - Auto-generated */
+/* Do not edit directly - modify tokens.json instead */
+
+/* === PRIMITIVES === */
+:root {
+  --primitive-color-paper-50: #FAF3E4;
+  --primitive-color-paper-100: #F2E6CC;
+  --primitive-color-paper-300: #DEC9A0;
+  --primitive-color-paper-600: #8C7B5E;
+  --primitive-color-paper-900: #2A2117;
+  --primitive-color-verdigris-300: #9DBFAE;
+  --primitive-color-verdigris-500: #587F6B;
+  --primitive-color-verdigris-700: #3C5E4C;
+  --primitive-color-verdigris-900: #1E3226;
+  --primitive-color-rust-400: #C97A52;
+  --primitive-color-rust-500: #A8522E;
+  --primitive-color-rust-700: #74311B;
+  --primitive-color-rust-900: #3D1810;
+  --primitive-font-display: var(--font-newsreader), 'Newsreader', Georgia, serif;
+  --primitive-font-sans: var(--font-public-sans), system-ui, sans-serif;
+  --primitive-font-mono: var(--font-space-mono), 'SF Mono', monospace;
+  --primitive-motion-duration-micro: 180ms;
+  --primitive-motion-duration-base: 320ms;
+  --primitive-motion-duration-reveal: 1.1s;
+  --primitive-motion-duration-cine: 1.8s;
+  --primitive-motion-ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --primitive-motion-ease-cine: cubic-bezier(0.65, 0, 0.35, 1);
+  --primitive-tracking-display: -0.01em;
+  --primitive-tracking-label: 0.22em;
+}
+
+/* === SEMANTIC === */
+:root {
+  --background: #FAF3E4;
+  --foreground: #2A2117;
+  --card: #F2E6CC;
+  --card-foreground: #2A2117;
+  --muted: #F2E6CC;
+  --muted-foreground: #8C7B5E;
+  --accent: #DEC9A0;
+  --accent-foreground: #2A2117;
+  --border: #DEC9A0;
+  --ring: #587F6B;
+  --radius: 0.25rem;
+  --verdigris: #587F6B;
+  --verdigris-dim: #1E3226;
+  --rust: #A8522E;
+  --rust-dim: #3D1810;
+  --ink: #2A2117;
+  --surface-line: #DEC9A0;
+  --type-display: var(--font-newsreader), 'Newsreader', Georgia, serif;
+  --type-body: var(--font-public-sans), system-ui, sans-serif;
+  --type-label: var(--font-space-mono), 'SF Mono', monospace;
+  --ease-reveal: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-cine: cubic-bezier(0.65, 0, 0.35, 1);
+  --duration-micro: 180ms;
+  --duration-base: 320ms;
+  --duration-reveal: 1.1s;
+  --tracking-display: -0.01em;
+  --tracking-label: 0.22em;
+}
+
+/* === COMPONENTS === */
+:root {
+  --hero-title-size: clamp(2.6rem, 6.6vw, 5.4rem);
+  --hero-title-leading: 1.05;
+  --hero-glow: radial-gradient(ellipse 70% 50% at 50% 100%, rgba(88, 127, 107, 0.22), rgba(30, 50, 38, 0.1) 45%, transparent 72%);
+  --hero-vignette: linear-gradient(to top, rgba(42, 33, 23, 0.92) 0%, rgba(42, 33, 23, 0.28) 45%, rgba(42, 33, 23, 0.5) 100%);
+  --button-primary-bg: #A8522E;
+  --button-primary-fg: #FAF3E4;
+  --button-primary-hover-bg: #74311B;
+  --button-ghost-border: rgba(42, 33, 23, 0.28);
+  --button-ghost-hover-border: #A8522E;
+}
