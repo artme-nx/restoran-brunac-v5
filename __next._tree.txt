@@ -1,0 +1,8 @@
+:HL["/restoran-brunac-v5/_next/static/chunks/1hmfm2otha-y-.css","style"]
+:HL["/restoran-brunac-v5/_next/static/media/2b7d3311b69a4dca-s.p.1elj1f4z6aq4a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restoran-brunac-v5/_next/static/media/8d05cfa5faa8406c-s.p.1s123piy9_v1m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restoran-brunac-v5/_next/static/media/d38f3bca7db33566-s.p.0op912u62qdhl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restoran-brunac-v5/_next/static/media/dc0d9adbac686440-s.p.3cik_s2si-ft-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restoran-brunac-v5/_next/static/media/fa0520225c6f3d07-s.p.33u8lzvd44aqk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://images.unsplash.com/photo-1764377723223-2353064702b1?auto=format&fit=crop&w=1900&q=80","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ZfIIZI1AGGZEz-YOYExik"}
